@@ -1,6 +1,6 @@
 # Mayor of Boston
 
-Made for Mehu Jam 1 within less than 48 hours, *Mayor of Boston* is a text-based survival game inspired by the classic *The Oregon Trail* game series.
+Made for [mehu jam 1](https://itch.io/jam/mehu-jam-1) within less than 48 hours, *Mayor of Boston* is a text-based survival game inspired by the classic *The Oregon Trail* game series.
 
 ## Files
 
@@ -22,7 +22,7 @@ To install and run the game:
 
 ## Acknowledgments
 
-- Sound Effects (SFX): US National Anthem.
+- Sound Effects (SFX): [US National Anthem](https://www.youtube.com/watch?v=w5x_9KEogM8).
 
 ## Contact
 
